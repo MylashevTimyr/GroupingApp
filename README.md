@@ -32,7 +32,7 @@ GroupingApp — это Java-приложение для обработки те�
 Необходимые файлы
 Перед запуском приложения скачайте необходимые файлы по следующим ссылкам:
 https://github.com/PeacockTeam/new-job/releases/download/v1.0/lng-4.txt.gz
-https://github.com/PeacockTeam/new-job/releases/download/v1.0/lng-4.txt.gz
+https://github.com/PeacockTeam/new-job/releases/download/v1.0/lng-big.7z
 
 Сборка и запуск
 Сборка проекта
